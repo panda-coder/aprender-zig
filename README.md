@@ -13,8 +13,8 @@
 
 ## Types and declaring variables
 
-[README](./2_TYPES_VARIABLES/README.md)
-1. [Declaring variables](./2_TYPES_VARIABLES/1_declaring.zig)
+
+1. [Declaring variables](./2_TYPES_VARIABLES/1_declaring.zig) [How to Run](./2_TYPES_VARIABLES/README.md)
 
 ## License
 
