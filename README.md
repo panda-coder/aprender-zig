@@ -11,6 +11,11 @@
 
 1. [Exemplo de Hello World](./1_Hello_World)
 
+## Types and declaring variables
+
+[README](./2_TYPES_VARIABLES/README.md)
+1. [Declaring variables](./2_TYPES_VARIABLES/1_declaring.zig)
+
 ## License
 
 [MIT](./LICENSE)
