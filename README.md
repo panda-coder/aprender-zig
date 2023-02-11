@@ -14,7 +14,7 @@
 ## Types and declaring variables
 
 
-1. [Declaring variables](./2_TYPES_VARIABLES/1_declaring.zig) [How to Run](./2_TYPES_VARIABLES/README.md)
+1. [Declaring variables](./2_TYPES_VARIABLES/1_declaring.zig) ( [How to Run](./2_TYPES_VARIABLES/README.md) )
 
 ## License
 
